@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_auto"
+        android:title="AutoComplete"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+
+    <item
+        android:id="@+id/nav_date"
+        android:title="DatePicker"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+
+    <item
+        android:id="@+id/nav_time"
+        android:title="TimePicker"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+    <item
+        android:id="@+id/nav_nuevo"
+        android:title="Nuevo"
+        android:icon="@drawable/m3_split_button_chevron_avd"/>
+
+
+</menu>
